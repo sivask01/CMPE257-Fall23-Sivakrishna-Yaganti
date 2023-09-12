@@ -1,2 +1,2 @@
 # CMPE257-Fall23-Sivakrishna-Yaganti
-ML Work
+Machine Learning Course
